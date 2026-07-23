@@ -244,7 +244,7 @@ sandbox_breakout_html = f"""
       <vapi-widget
         public-key="{public_key}"
         assistant-id="{assistant_id}"
-        mode="voice"
+        mode="chat"
         theme="{theme}"
         accent-color="{accent_color}"
         cta-button-color="{accent_color}"
